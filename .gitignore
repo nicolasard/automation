@@ -2,10 +2,10 @@
 *.class
 
 # Build folder for Maven, Gradle, and other build tools
-/target/
-/build/
-/bin/
-/out/
+**/target/
+**/build/
+**/bin/
+**/out/
 
 # Maven wrapper files (if not meant to be shared)
 !.mvn/wrapper/maven-wrapper.jar
