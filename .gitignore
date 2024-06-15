@@ -1,0 +1,48 @@
+# Compiled class files
+*.class
+
+# Build folder for Maven, Gradle, and other build tools
+/target/
+/build/
+/bin/
+/out/
+
+# Maven wrapper files (if not meant to be shared)
+!.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE and editor files
+/.idea/
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+.vscode/
+*.sublime*
+.project
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Other files and directories to ignore
+*.tmp
+*.temp
+*.tmp_proj
+LocalSettings.xml
